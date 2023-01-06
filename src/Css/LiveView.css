@@ -1,0 +1,112 @@
+.liveviewBody{
+    margin: 4% 0;
+}
+
+.live-grid{
+
+    margin: 1% 0% 2% 0% ; 
+    border-radius: 10px;
+}
+.liveBody-header{
+    display: flex;
+    justify-content: space-between;
+    margin: 7% 5% 2% 4% ; 
+    border-radius: 10px;
+
+}
+.liveBody-header div select{
+    width: 30vw;
+  height: 6vh;
+    border: none;
+    /* padding: 10px; */
+}
+.Add-btn{
+    display: flex;
+    align-items: center;
+    background: #FFFFFF;
+    border: 1px solid #003399;
+    border-radius: 8px;
+
+}
+.live-gridOne{
+    padding: 1%;
+    margin: 0% 3.5%;
+    /* border: 2px solid red; */
+    height: 50vh;
+    background-color: #FFFFFF;
+}
+.live-gridTwo{
+    padding: 1%;
+    margin: 0% 3.5%;
+    /* border: 2px solid red; */
+    background-color: #FFFFFF;
+    height: 50vh;
+}
+.gridsection{
+    padding: 1%;
+    margin: 0% 3.5%; 
+}
+
+.live-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2% 0%;
+}
+.select-drop select{
+    border: none;
+    width: 13vw;
+     height: 34px;
+}
+.gridcard-headder .MuiPaper-root{
+    border-radius: 11px;    
+}
+.card-camOne {
+    background: #FFFFFF;
+/* border: 1px solid rgba(22, 101, 52, 0.5); */
+
+box-shadow: 0px 94px 56px rgba(0, 0, 0, 0.02), 0px 42px 42px rgba(0, 0, 0, 0.03), 0px 10px 23px rgba(0, 0, 0, 0.03), 0px 0px 0px rgba(0, 0, 0, 0.03);
+    margin: 2% 0%;
+}
+.card-camOne img{
+    width: 10.5vw;
+    /* width: 120px; */
+    height: 19.8vh;
+    margin: 5% 5%;
+    border-radius: 11px;
+
+
+}
+.card-flexone{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0% 3%;
+}
+.insidecard{
+    display: flex;
+    align-items: center;
+    margin-top: -5%;
+}
+.divcards{
+    /* width: 13.5vw; */
+    height: 12.8h;
+}
+.divcards div{
+    margin: -14% 0%;
+}
+.leftPartCard{
+    display: flex;
+    align-items: center;
+    padding: -20px;   
+}
+.leftPartCard p{
+    font-size: 10px;
+}
+.leftPartCard h3{
+    font-size: 0.8em;
+}
+.leftPartCard h4{
+    font-size: 0.8em;
+    border-bottom: 1.5px solid black;
+}

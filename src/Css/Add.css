@@ -1,0 +1,72 @@
+.Add-body{
+    margin: 7% 4%;
+    
+}
+.Addbody-one{
+    background-color: #FFFFFF;
+    width: 95vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+.Addbody-two{
+    background-color: #FFFFFF;
+    margin-top: -1.5%;
+}
+/* .bodytwo-div{
+    margin: 3% 3%;
+   
+    
+} */
+.form-add{
+    display: flex;
+    align-items: center;
+    padding: 6%;
+}
+.Addbody-two label{
+  margin-right: 4%;
+}
+.Addbody-two input{
+ width: 28vw;
+  }
+
+  /* file Type */
+
+  /* .border-file{
+ 
+   margin: 2% 2%;
+
+  } */
+
+
+  .custom-file-upload input[type="file"] {
+    display: none;
+}
+
+.form-file{
+    margin: 2% 15%;
+}
+.filestype{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.custom-file-upload {
+    cursor: pointer;
+    color: #5A91FF;
+    font-weight: 500;
+   font-size: 18px;
+   line-height: 28px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: -2% 2%;
+}
+.file{
+    border-bottom: 2px solid #5A91FF;
+    margin-right: 20px;
+}
+.custom-file-upload h4{
+    color: rgba(34, 34, 34, 0.5);  
+}
